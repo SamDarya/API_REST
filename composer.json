@@ -1,0 +1,23 @@
+{
+    "name": "samdarya/api_rest",
+    "description": "test task",
+    "keywords": ["rest_api"],
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "config": {
+        "process-timeout": 1800
+    }
+}
